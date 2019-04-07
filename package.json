@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "vue": "^2.6.6"
+    "mint-ui": "^2.2.13",
+    "vue": "^2.6.6",
+    "vue-calendar-component": "^2.8.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
